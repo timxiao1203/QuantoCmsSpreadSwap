@@ -36,11 +36,9 @@ Sigma_X 	- is the volatility of the forward exchange rate,
 Sigma_B 	- is the volatility of the GBP 10Y CMS  rate,
 Rho 	- is the correlation between the forward exchange rate and GBP 10Y CMS  rate.
 
+Quanto CMS spread swap is an exotic derivatives. Many exotic derivatives have barrier and callable features (see https://finpricing.com/lib/EqBarrier.html)
+
 Reference:
-
-https://finpricing.com/lib/EqCliquet.html
-
-https://osf.io/t6h37/wiki/home/
 
 https://osf.io/umeq3/download
 
